@@ -1,0 +1,42 @@
+#loginForm {
+	padding: 40px;
+	background-color: rgb(238, 245, 248);
+	height: 100vh;
+}
+
+#welcome {
+	margin-top: 50px;
+	color: rgb(182, 181, 181);
+}
+
+#subTitle {
+	margin-bottom: 0em;
+}
+
+#subTitle h1 {
+	font-weight: bolder;
+	color: blueviolet;
+}
+
+#title {
+	font-size: 25px;
+}
+
+#formLogin {
+	margin-top: 20px;
+}
+
+#submitBtn {
+	border-radius: 10px;
+}
+
+#sideImage {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: linear-gradient(
+		to bottom right,
+		rgb(158, 23, 199),
+		rgb(255, 35, 171)
+	);
+}
